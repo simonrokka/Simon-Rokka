@@ -1,0 +1,6 @@
+num1 = int(input("Enter first number: "))
+num2 = int(input("Enter second number: "))
+num3 = int(input("Enter third number: "))
+print(f"the sum of the number is {num1 + num2 + num3}")
+print(f"the product of the number is {num1 * num2 * num3}")
+print(f"the average of the number is {(num1 + num2 + num3) / 3}")
